@@ -8,4 +8,6 @@ After numerous iterations, I was able to build a model that achieved high accura
 
 I am sharing the code I used for this prediction task (regression) below, hoping that it can help and inspire others to pursue their interests in machine learning.
 
+Kaggle Link for this competition: https://www.kaggle.com/competitions/ml-olympiad-waterqualityprediction/overview
+
 ![55](https://user-images.githubusercontent.com/45523231/224194207-145ea6a7-0a1c-4ee8-aabd-29801a53bd80.png)
